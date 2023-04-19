@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\SkeppOHoj\\SkeppOHoj\\SkeppOHoj.csproj": {}
+    "C:\\Projects\\testrepo\\SkeppOHoj\\SkeppOHoj.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\SkeppOHoj\\SkeppOHoj\\SkeppOHoj.csproj": {
+    "C:\\Projects\\testrepo\\SkeppOHoj\\SkeppOHoj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\SkeppOHoj\\SkeppOHoj\\SkeppOHoj.csproj",
+        "projectUniqueName": "C:\\Projects\\testrepo\\SkeppOHoj\\SkeppOHoj.csproj",
         "projectName": "SkeppOHoj",
-        "projectPath": "C:\\Projects\\SkeppOHoj\\SkeppOHoj\\SkeppOHoj.csproj",
+        "projectPath": "C:\\Projects\\testrepo\\SkeppOHoj\\SkeppOHoj.csproj",
         "packagesPath": "C:\\Users\\ivacar\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\SkeppOHoj\\SkeppOHoj\\obj\\",
+        "outputPath": "C:\\Projects\\testrepo\\SkeppOHoj\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ivacar\\AppData\\Roaming\\NuGet\\NuGet.Config",

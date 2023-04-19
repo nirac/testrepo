@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3LBMMfij7pVFU8qLAqpCpSK9yZ1G9U6P3gPq1f7fCknJRBDwjqnIqna5t7Z/XnhqlDnGcdoDAgf1gjJGRnL9HA==",
+  "dgSpecHash": "S/9vbsQqX2m8b9STtiXir+UA+09CREyDwUWV/4ILTWP73d6s/sdwCEaAd6WllJiJmR7aUHot+TzRoUGE+jpWLg==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\SkeppOHoj\\SkeppOHoj\\SkeppOHoj.csproj",
+  "projectFilePath": "C:\\Projects\\testrepo\\SkeppOHoj\\SkeppOHoj.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ivacar\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.4\\microsoft.aspnetcore.openapi.7.0.4.nupkg.sha512",
     "C:\\Users\\ivacar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
